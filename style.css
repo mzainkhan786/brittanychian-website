@@ -1,0 +1,11 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.main {
+  background-color: #112240;
+  height: 1000px;
+  width: 100%;
+}
